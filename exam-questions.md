@@ -1,18 +1,18 @@
 # Questions - Exam Amazon AWS Certified Cloud Practitioner
 1. A company is planning to run a global marketing application in the AWS Cloud. The application will feature videos that can be viewed by users. The company must ensure that all users can view these videos with low latency.
-Which AWS service should the company use to meet this requirement?
+Which AWS service should the company use to meet this requirement? <br>
 A. AWS Auto Scaling
 B. Amazon Kinesis Video Streams
 C. Elastic Load Balancing
 **D. Amazon CloudFront**
 
-2. Which pillar of the AWS Well-Architected Framework refers to the ability of a system to recover from infrastructure or service disruptions and dynamically acquire computing resources to meet demand?
+2. Which pillar of the AWS Well-Architected Framework refers to the ability of a system to recover from infrastructure or service disruptions and dynamically acquire computing resources to meet demand? <br>
 A. Security
 **B. Reliability**
 C. Performance efficiency
 D. Cost optimization
 
-3. Which of the following are benefits of migrating to the AWS Cloud? (Choose two.)
+3. Which of the following are benefits of migrating to the AWS Cloud? (Choose two.) <br>
 **A. Operational resilience**
 B. Discounts for products on Amazon.com
 **C. Business agility**
@@ -20,16 +20,14 @@ D. Business excellence
 E. Increased staff retention
 
 4. A company is planning to replace its physical on-premises compute servers with AWS serverless compute services. The company wants to be able to take advantage of advanced technologies quickly after the migration.
-Which pillar of the AWS Well-Architected Framework does this plan represent?
+Which pillar of the AWS Well-Architected Framework does this plan represent? <br>
 A. Security
 **B. Performance efficiency**
 C. Operational excellence
 D. Reliability
 
-5. A large company has multiple departments. Each department has its own AWS account. Each department has purchased Amazon EC2 Reserved Instances.
-Some departments do not use all the Reserved Instances that they purchased, and other departments need more Reserved Instances than they purchased.
-The company needs to manage the AWS accounts for all the departments so that the departments can share the Reserved Instances.
-Which AWS service or tool should the company use to meet these requirements?
+5. A large company has multiple departments. Each department has its own AWS account. Each department has purchased Amazon EC2 Reserved Instances. Some departments do not use all the Reserved Instances that they purchased, and other departments need more Reserved Instances than they purchased. The company needs to manage the AWS accounts for all the departments so that the departments can share the Reserved Instances.
+Which AWS service or tool should the company use to meet these requirements? <br>
 A. AWS Systems Manager
 B. Cost Explorer
 C. AWS Trusted Advisor
